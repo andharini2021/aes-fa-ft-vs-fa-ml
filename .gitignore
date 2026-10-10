@@ -1,0 +1,9 @@
+# Student data and derived artifacts are NOT published
+data/
+*.pkl
+*.npy
+*.joblib
+*.pth
+aes_results/
+.ipynb_checkpoints/
+__pycache__/

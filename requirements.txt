@@ -1,0 +1,14 @@
+# Tested on Google Colab (Python 3.13, NVIDIA A100 40 GB), October 2026
+torch
+transformers
+sentence-transformers
+huggingface_hub>=1.16
+xgboost
+scikit-learn
+numpy
+pandas
+scipy
+joblib
+nltk
+nlp-id==0.1.23.0
+pynvml
